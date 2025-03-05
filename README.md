@@ -6,12 +6,12 @@ Current projects 🔭:
   - Newgen.io : A website that allows a user to find clothing brands based on a single query asking them how they like to dress 👕 (not currently public).
 
 Currently learning 🌱:
-  - NextJS
-  - AWS services like Amazon S3
+  - NextJS 🖥️
+  - AWS services like Amazon S3 📗
 
 Reach me on:
-  -Instagram : https://www.instagram.com/_zachluh_/
-  -Linkedin : https://www.linkedin.com/in/zachary-tristan-luheshi-680005315/
+  -  Instagram : https://www.instagram.com/_zachluh_/
+  -  Linkedin : https://www.linkedin.com/in/zachary-tristan-luheshi-680005315/
 
 <!--
 **zachluh/zachluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
