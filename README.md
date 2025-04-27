@@ -1,4 +1,4 @@
-Known handsome young man
+Hi! Im Zach, a student and tutor at Cegep Gerald Godin interested in Fullstack Web Development
 
 Current projects 🔭:
 
