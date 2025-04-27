@@ -10,7 +10,7 @@ Currently learning 🌱:
   - AWS services like Amazon S3 📗
 
 Reach me on:
-  -  Instagram : https://www.instagram.com/_zachluh_/
+  -  E-mail: zluheshi@gmail.com
   -  Linkedin : https://www.linkedin.com/in/zachary-tristan-luheshi-680005315/
 
 <!--
