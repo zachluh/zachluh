@@ -3,7 +3,7 @@ Hi! Im Zach, a student and tutor at Cegep Gerald Godin interested in Fullstack W
 Current projects 🔭:
 
   - Allergen AI : A ChatGPT wrapper that allows a user to change a submitted recipe for a given meal to fit their given allergies 👨‍🍳.
-  - Newgen.io : A website that allows a user to find clothing brands based on a single query asking them how they like to dress 👕 (not currently public).
+  - Newgen.me : A website that allows a user to find clothing brands based on a single query asking them how they like to dress 👕 (not currently public).
 
 Currently learning 🌱:
   - NextJS 🖥️
