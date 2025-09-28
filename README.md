@@ -1,4 +1,4 @@
-Hi! Im Zach, a student and tutor at Cegep Gerald Godin interested in Fullstack Web Development
+Hi! Im Zach, a student, an intern at Artur Art and tutor at Cegep Gerald Godin interested in Fullstack Web Development
 
 Current projects 🔭:
 
