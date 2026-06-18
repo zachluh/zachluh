@@ -13,7 +13,7 @@ Reach me on:
   -  E-mail: zluheshi@gmail.com
   -  Linkedin : https://www.linkedin.com/in/zachary-tristan-luheshi-680005315/
 
-  [[![Zachs's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachluh)](https://github.com/anuraghazra/github-readme-stats)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zachluh}&theme={github_dark})
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={zachluh}&theme={github_dark}
 
 <!--
 **zachluh/zachluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
