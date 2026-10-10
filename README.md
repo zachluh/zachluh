@@ -15,14 +15,6 @@ Reach me on:
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachluh&theme=github_dark)
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=zachluh&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/zachluh"
-  width="600"
-  height="300"
-/>
-</a>
-
 <!--
 **zachluh/zachluh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
