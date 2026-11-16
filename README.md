@@ -1,13 +1,4 @@
-Hi! Im Zach, a student and developer at L'Original interested in Fullstack Web Development
-
-Current projects 🔭:
-
-  - Allergen AI : A ChatGPT wrapper that allows a user to change a submitted recipe for a given meal to fit their given allergies 👨‍🍳.
-  - Newgen.me : A website that allows a user to find clothing brands based on a single query asking them how they like to dress 👕 (not currently public).
-
-Currently learning 🌱:
-  - NextJS 🖥️
-  - AWS services like Amazon S3 📗
+Lead Engineer @ L'Original
 
 Reach me on:
   -  E-mail: zluheshi@gmail.com
